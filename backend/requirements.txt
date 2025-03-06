@@ -1,0 +1,6 @@
+flask
+flask-cors
+openai-whisper
+llama-cpp-python
+edge-tts
+asyncio
